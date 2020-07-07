@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactrouterwithaxios/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactrouterwithaxios/static/js/main.179a03be.chunk.js",
+    "main.js.map": "/reactrouterwithaxios/static/js/main.179a03be.chunk.js.map",
+    "runtime-main.js": "/reactrouterwithaxios/static/js/runtime-main.02104f97.js",
+    "runtime-main.js.map": "/reactrouterwithaxios/static/js/runtime-main.02104f97.js.map",
+    "static/js/2.de50eb30.chunk.js": "/reactrouterwithaxios/static/js/2.de50eb30.chunk.js",
+    "static/js/2.de50eb30.chunk.js.map": "/reactrouterwithaxios/static/js/2.de50eb30.chunk.js.map",
+    "index.html": "/reactrouterwithaxios/index.html",
+    "precache-manifest.761359c1d7eab02c57b3cbf427e17fd5.js": "/reactrouterwithaxios/precache-manifest.761359c1d7eab02c57b3cbf427e17fd5.js",
+    "service-worker.js": "/reactrouterwithaxios/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactrouterwithaxios/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.de50eb30.chunk.js.LICENSE.txt": "/reactrouterwithaxios/static/js/2.de50eb30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02104f97.js",
+    "static/js/2.de50eb30.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.179a03be.chunk.js"
+  ]
+}
